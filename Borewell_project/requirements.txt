@@ -1,0 +1,8 @@
+sockets
+PyAudio
+serial
+Flask
+opencv-python
+RPi.GPIO
+dht11
+picamera2
